@@ -1,0 +1,91 @@
+{
+    "name": "Réso-Solution",
+    "description": "eZ Publish 5 standard distribution",
+    "version": "0.1",
+    "homepage": "http://www.reso-solution.fr",
+    "ga": "UA-12981088-4",
+    "gverif": "",
+    "facebook": "",
+    "twitter": "",
+    "lang": "fr",
+    "contact": {
+        "email": "contact@reso-solution.fr",
+        "adresse": "30 rue Montgrand",
+        "zipcode": 13006,
+        "city": "Marseille",
+        "tel": "06.70.88.42.48"
+    },
+    "authors": {
+            "name": "Agence Différente",
+            "homepage": "http://www.agence-differente.fr"
+        }
+    ,
+    "pages": [
+        {
+            "id": 1,
+            "parent": 0,
+            "name": "Accueil",
+            "url": "/",
+            "keywords" : ["k","e","y"],
+            "description": "Une description",
+            "title": "Réso-Solution : un lieu convivial de travail et d’échanges",
+            "content": "HTML STUFF",
+            "template": "home"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "name": "Qui sommes nous ?",
+            "url": "concept-resosolution.html",
+            "keywords" : ["k","e","y"],
+            "description": "Une description",
+            "title": "Réso-Solution : Qui sommes-nous? Le concept",
+            "content": "HTML STUFF",
+            "template": "article"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "name": "Chercheurs d'emploi",
+            "url": "chercheurs-d-emploi.html",
+            "keywords" : ["k","e","y"],
+            "description": "Une description",
+            "title": "Nos solutions pour les chercheurs d'emplois - Réso-Solution",
+            "content": "HTML STUFF",
+            "template": "article"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "name": "Indépendants",
+            "url": "independants.html",
+            "keywords" : ["k","e","y"],
+            "description": "Une description",
+            "title": "Solution et formation pour les indépendants - Réso-Solution",
+            "content": "HTML STUFF",
+            "template": "article"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "name": "Entreprises",
+            "url": "entreprises.html",
+            "keywords" : ["k","e","y"],
+            "description": "Une description",
+            "title": "Service aux entreprises - Réso-Solution",
+            "content": "HTML STUFF",
+            "template": "article"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "name": "Cabinets de recrutements",
+            "url": "cabinets-de-recrutement.html",
+            "keywords" : ["k","e","y"],
+            "description": "Une description",
+            "title": "Réso-Solution au service des cabinets de recrutement",
+            "content": "HTML STUFF",
+            "template": "article"
+        }
+    ]
+}

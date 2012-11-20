@@ -1,0 +1,54 @@
+ body { background: url('/assets/images/bg.jpg') repeat; }
+ body.article { text-align: justify;}
+				.marketing { color: white; padding-top: 20px;}
+        
+        .navbar-wrapper { width: 100% }
+				.navbar-inverse .navbar-inner, .marketing { background: url('/assets/images/bg2.jpg') repeat ; }
+        #myCarousel { background: url('/assets/images/carpet.png') repeat; }
+				.navbar { margin: 0;}
+        .navbar-inverse .nav li a { text-transform: uppercase; color: #a2b8ce;}
+        .navbar-inverse .nav li.active { background-color: none;}
+				
+        header { padding: 15px 20px;}
+				#headerContact {
+					position: absolute;
+          z-index: 999;
+					top: 0;
+					right: 20px;
+					background-color: #a59975;
+					color: #fff;
+					padding: 10px;
+				}
+
+        header i {
+          margin-left: 40px; 
+        }
+
+        #headerContact a {
+          color: #fff;
+        }
+				
+        .addthis_toolbox {
+          position: absolute;
+          top: 75px;
+          right: 0px;
+        }
+
+        .marketing h4 { color: #b6c8d5; text-transform: uppercase; font-weight: normal;}
+        .icon_map { padding-left: 35px; background: url('/assets/images/picto_map.png') no-repeat; line-height: 35px;}
+        address { margin-left: 35px;}
+        .icon_mail { padding-left: 40px; background: url('/assets/images/picto_mail.png') no-repeat; line-height: 35px;}
+
+        .item img { margin: 0 auto;}
+
+				#myCarousel { margin: 0;}
+
+        .articleContent { margin-top: 20px; margin-bottom: 20px;}
+
+        .articleContent h1 { color: #515151; font-size: 24px; line-height: 24px;}
+        /*.articleContent h2 { color: #a2b8ce; font-size: 18px; line-height: 24px;}*/
+        .articleContent h2 { color: #579DCF; font-size: 18px; line-height: 24px;}
+        .hhh { display: none;}
+
+        img.special { width: 460px; margin-bottom: 20px; }
+			
