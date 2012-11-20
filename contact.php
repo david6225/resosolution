@@ -1,4 +1,7 @@
 <?php
+
+/* Quick and Dirty */
+
 $name = filter_var($_POST['name'], FILTER_SANITIZE_STRING );
 $firstname = filter_var($_POST['firstname'], FILTER_SANITIZE_STRING );
 $from = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL );
